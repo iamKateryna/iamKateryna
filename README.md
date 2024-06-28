@@ -4,13 +4,13 @@
   </p>
 </h1>
 
-- Pursuing an MSc in Computer Science at the University of Toronto
+- Solutions Architect intern @NVIDIA
+
+- MSc in Computer Science grad from the University of Toronto
 
 - Have experience in Machine Learning Research and Software Engineering for Machine Learning projects
   
-- Currently working on the exploration of min-max QRMs
-  
-- Passionate about climbing and horseriding
+- Passionate about bouldering and horseriding
 
 <!--
 **iamKateryna/iamKateryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
