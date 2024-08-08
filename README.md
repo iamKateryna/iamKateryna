@@ -10,7 +10,7 @@
 
 - Have experience in Machine Learning Research and Software Engineering for Machine Learning projects
   
-- Passionate about bouldering and horseriding
+- Passionate about biking and horseriding
 
 <!--
 **iamKateryna/iamKateryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
