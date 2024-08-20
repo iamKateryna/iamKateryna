@@ -1,5 +1,12 @@
 <h1>
   <p align="center">
+  Hi there 👋
+  </p>
+</h1>
+<!--
+**
+<h1>
+  <p align="center">
   Hi there 👋, I am Kateryna Nekhomiazh
   </p>
 </h1>
@@ -12,8 +19,7 @@
   
 - Passionate about biking and horseriding
 
-<!--
-**iamKateryna/iamKateryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iamKateryna/iamKateryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
